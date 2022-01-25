@@ -1,0 +1,6 @@
+﻿  StringSet.cpp
+C:\Users\amaan\source\repos\OOP345WS2\StringSet.cpp(48,49): error C2761: '=': redeclaration of member is not allowed
+C:\Users\amaan\source\repos\OOP345WS2\StringSet.cpp(48,51): error C2447: '{': missing function header (old-style formal list?)
+  TimedEvents.cpp
+  w2_p1.cpp
+  Generating Code...
